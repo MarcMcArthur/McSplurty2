@@ -66,6 +66,14 @@ clear: both;
     font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
 }
 
+body    {
+    background: #754341; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#754341, #F0D0CE); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#754341, #F0D0CE); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#754341, #F0D0CE); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#754341, #F0D0CE); /* Standard syntax */
+}
+
 header  {
     border-top: 9px solid #222222;
 }

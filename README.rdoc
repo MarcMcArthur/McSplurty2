@@ -1,3 +1,5 @@
 == README
 
-Coded by Marc Mcarthur in London Town
+Coding is Awesome!
+
+- Marc McArthur

@@ -1,5 +1,3 @@
 == README
 
-Coding is Awesome!
 
-- Marc McArthur
